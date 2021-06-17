@@ -2,11 +2,10 @@
 
 I'm Ayaan Haque, and I am a student at Saratoga High School🏫, Class of 2022.
 
-![ayaanzhaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaanzhaque&show_icons=true)
-
+![ayaanzhaque's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayaanzhaque&show_icons=true) 
 ![ayaanzhaque's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayaanzhaque)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanzhaque&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanzhaque&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayaanzhaque)
 
